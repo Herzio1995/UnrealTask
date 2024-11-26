@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealTask",
+			"Path": "..\\Source\\UnrealTask.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealTaskEditor",
+			"Path": "..\\Source\\UnrealTaskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

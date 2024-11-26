@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\unrealtask\\unrealtask\\source\\unrealtask\\unrealtaskgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\unrealtask\\unrealtask\\intermediate\\build\\win64\\x64\\unrealtaskeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\unrealtask\\unrealtask\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealtask\\definitions.unrealtask.h",
+            "c:\\github\\unrealtask\\unrealtask\\source\\unrealtask\\unrealtaskgamemode.h",
+            "c:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\github\\unrealtask\\unrealtask\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealtask\\uht\\unrealtaskgamemode.generated.h",
+            "c:\\github\\unrealtask\\unrealtask\\source\\unrealtask\\unrealtaskcharacter.h",
+            "c:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\ue5\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\ue5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\ue5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\github\\unrealtask\\unrealtask\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealtask\\uht\\unrealtaskcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GitHub\\UnrealTask\\UnrealTask\\Source\\UnrealTask\\UnrealTask.Build.cs",
+		"C:\\GitHub\\UnrealTask\\UnrealTask\\Source\\UnrealTask.Target.cs",
+		"C:\\GitHub\\UnrealTask\\UnrealTask\\Source\\UnrealTaskEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
