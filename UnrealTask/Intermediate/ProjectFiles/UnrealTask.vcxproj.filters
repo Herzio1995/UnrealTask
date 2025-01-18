@@ -11,6 +11,9 @@
     <None Include="..\..\Source\UnrealTaskEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -52,6 +55,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealTask\UnrealTaskGameMode.h">
       <Filter>Source\UnrealTask</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealTask\Private">
+      <UniqueIdentifier>{550B7156-7DC7-3103-BA74-C41D24248851}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealTask\Private\Skate.cpp">
+      <Filter>Source\UnrealTask\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealTask\Public">
+      <UniqueIdentifier>{202E6FF7-5D04-36AE-A63B-50F66B53D614}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealTask\Public\Skate.h">
+      <Filter>Source\UnrealTask\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

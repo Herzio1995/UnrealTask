@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\unrealtask\\unrealtask\\source\\unrealtask\\unrealtask.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\unrealtask\\unrealtask\\intermediate\\build\\win64\\x64\\unrealtaskeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\unrealtask\\unrealtask\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealtask\\definitions.unrealtask.h",
+            "c:\\github\\unrealtask\\unrealtask\\source\\unrealtask\\unrealtask.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

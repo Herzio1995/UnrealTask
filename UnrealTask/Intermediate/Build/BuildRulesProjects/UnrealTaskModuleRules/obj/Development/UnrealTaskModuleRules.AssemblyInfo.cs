@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnrealTaskModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+548807e64f9a603235de8b5df23ab27a1454e4a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3591885ee35a41fbb6f4aa16ec4efb16767660be")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnrealTaskModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnrealTaskModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

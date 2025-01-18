@@ -7,11 +7,13 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealTaskEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\Skate.gen.cpp.obj"
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\UnrealTask.init.gen.cpp.obj"
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\UnrealTaskCharacter.gen.cpp.obj"
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\UnrealTaskGameMode.gen.cpp.obj"
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\UnrealTask.cpp.obj"
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\UnrealTaskCharacter.cpp.obj"
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\UnrealTaskGameMode.cpp.obj"
+"C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\Skate.cpp.obj"
 "C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\Default.rc2.res"
 /OUT:"C:\GitHub\UnrealTask\UnrealTask\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealTask\UnrealEditor-UnrealTask.lib"
